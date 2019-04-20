@@ -1,0 +1,86 @@
+input {
+    color: rgb(212, 212, 212) !important;
+    background: rgb(47, 56, 63) !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(64, 75, 85) !important;
+    border-image: initial;
+    padding: 0px 0px 0px 10px !important;
+    outline: none;
+}
+
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+    margin: 0;
+    border: 1px solid #646464;
+    border-bottom: 0;
+    border-radius: 4px 4px 0 0;
+     background: transparent !important;
+    margin-right: 2px;
+    padding: 0 16px;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    line-height: 38px;
+}
+
+.ant-tabs-bar {
+    border-bottom: 1px solid #646464 !important;
+}
+
+* {
+    color: #fff !important;
+}
+
+button {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(91, 101, 110) !important;
+    background: rgb(47, 56, 63) !important;
+    color:#fff !important;
+}
+
+.btn-redo {
+    margin: 0 74px;
+    color: #fff;
+    background: transparent;
+    border: 1px solid #1890ff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn-redo a{
+    color:#fff !important;
+}
+label{
+    color:#fff !important;
+}
+
+body {
+    background-color: #262D32;
+}
+
+.ant-calendar-panel {
+    background-color: #262D32 !important;
+}
+
+.ant-calendar-month-panel {
+    background-color: #262D32 !important;
+}
+
+.ant-calendar-year-panel {
+    background-color: #262D32 !important;
+}
+
+.ant-calendar-date-panel {
+    background-color: #262D32 !important;
+}
+.ant-calendar-time-picker-select {
+    background-color: #262D32 !important;
+}
+
+.ant-calendar-time-picker-select-option-selected {
+    background-color: #827979 !important;
+}
+.ant-calendar-date-picker-select-option-selected {
+    background-color: #827979 !important;
+}
